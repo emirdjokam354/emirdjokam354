@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World ! I am Emir Othman 👋
 
 <!--
 **emirdjokam354/emirdjokam354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently college in **STMIK AMIKBANDUNG**
+- 🌱 I’m currently learning [**Flutter**](https://flutter.dev/) Framework ...
+
+![Good Morning](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVieHV3emgycDBkZWUxeXFlN2w5OWVpZXF1YXVoM3NtM3ljYW94byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nxixvW5krNTKLVOKDp/giphy.gif)
+
