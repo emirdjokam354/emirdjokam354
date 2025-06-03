@@ -1,4 +1,4 @@
-## Hello World ! I am Emir Othman 👋
+## Hello Iam Emir Othman 👋
 ![Emir Othman](img/headerimage2.png)
 <!--
 **emirdjokam354/emirdjokam354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
